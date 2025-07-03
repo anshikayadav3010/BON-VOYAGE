@@ -38,17 +38,3 @@ Tech Stack
 HTML/CSS: Used for structuring and styling the user interface.
 JavaScript: Used for scripting logic on both the frontend (React).
 React.js: A JavaScript library for building user interfaces, providing a dynamic and interactive experience.
-Screenshot of Website
-HOME PAGE image image
-
-DESTINATION PAGE image
-
-SINGLE DESTINATION PAGE image
-
-BOOKING PAGE image
-
-PAYMENT PAGE image
-
-SUPPORT US PAGE image
-
-ADMIN DASHBOARD image
